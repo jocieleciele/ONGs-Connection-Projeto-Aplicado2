@@ -1,0 +1,1 @@
+export default function Sobre() { return <div className='secao'><h2>Sobre</h2><p>Nossa ONG visa transformar vidas com solidariedade.</p></div>; }

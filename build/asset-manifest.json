@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ONGs-Connection-Projeto-Aplicado2/static/css/main.6914e855.css",
+    "main.js": "/ONGs-Connection-Projeto-Aplicado2/static/js/main.5b04939c.js",
+    "index.html": "/ONGs-Connection-Projeto-Aplicado2/index.html",
+    "main.6914e855.css.map": "/ONGs-Connection-Projeto-Aplicado2/static/css/main.6914e855.css.map",
+    "main.5b04939c.js.map": "/ONGs-Connection-Projeto-Aplicado2/static/js/main.5b04939c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6914e855.css",
+    "static/js/main.5b04939c.js"
+  ]
+}

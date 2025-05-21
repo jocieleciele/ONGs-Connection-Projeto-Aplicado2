@@ -1,0 +1,1 @@
+export default function Instituicoes() { return <div className='secao'><h2>Instituições</h2><p>Instituições cadastradas aqui.</p></div>; }

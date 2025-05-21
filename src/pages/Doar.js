@@ -1,0 +1,1 @@
+export default function Doar() { return <div className='secao'><h2>Doar Agora</h2><p>Opções para doações anônimas.</p></div>; }
